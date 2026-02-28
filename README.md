@@ -17,7 +17,7 @@ Enter your Fastmail API token when prompted. It's stored in `localStorage`.
 npm run build
 ```
 
-Produces a single `dist/index.html` you can open directly or host anywhere.
+Produces a single `docs/index.html` you can open directly or host anywhere (handy for GitHub Pages).
 
 ## Token
 
